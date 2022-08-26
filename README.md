@@ -1,2 +1,1 @@
 # tarefa-fabrica-de-projetos
-neste espaço iremos disponibilizar as atualizações que são relacionadas ao nosso projeto, e que também poderão ser vistas no https://luiscandidohonorio.github.io/tarefa-fabrica-de-projetos/ e de forma conjunta em https://luishonorio18.wixsite.com/meus-projetos/sobre-o-projeto, https://luishonorio18.wixsite.com/meus-projetos/toda-a-documenta%C3%A7%C3%A3o e pronto para ser baixado em https://luishonorio18.wixsite.com/meus-projetos/projeto-finalizado
